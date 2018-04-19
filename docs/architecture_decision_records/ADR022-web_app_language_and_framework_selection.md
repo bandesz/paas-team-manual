@@ -1,3 +1,9 @@
+# Superceded
+
+This has been superceded by [ADR024](/architecture_decision_records/ADR024-web-app-language-and-framework-selection-2/) since February 2018. It has been retained for historical purposes.
+
+------------------------
+
 # Context
 
 We are starting to develop a number of user-facing applications with web
@@ -35,7 +41,7 @@ We will use Ruby and Rails to create new user-facing applications with web front
 
 # Status
 
-Accepted.
+Superceded by [ADR024](/architecture_decision_records/ADR024-web-app-language-and-framework-selection-2/).
 
 # Consequences
 
